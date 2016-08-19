@@ -1,0 +1,14 @@
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\bin\Debug\PaintDistribuidoCAO.exe.config
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\bin\Debug\PaintDistribuidoCAO.exe
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\bin\Debug\PaintDistribuidoCAO.pdb
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\obj\Debug\PaintDistribuidoCAO.csprojResolveAssemblyReference.cache
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\obj\Debug\PaintDistribuidoCAO.frmDibujo.resources
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\obj\Debug\PaintDistribuidoCAO.Properties.Resources.resources
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\obj\Debug\PaintDistribuidoCAO.csproj.GenerateResource.Cache
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\obj\Debug\PaintDistribuidoCAO.exe
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\obj\Debug\PaintDistribuidoCAO.pdb
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\obj\Debug\PaintDistribuidoCAO.frmLoginUsuario.resources
+c:\users\cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\obj\Debug\PaintDistribuidoCAO.frmLienzosCliente.resources
+C:\Users\Cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\bin\Debug\BibliotecaPaint.dll
+C:\Users\Cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\bin\Debug\BibliotecaPaint.pdb
+C:\Users\Cristian\documents\visual studio 2012\Projects\PaintDistribuidoCAO\PaintDistribuidoCAO\obj\Debug\PaintDistribuidoCAO.Guardar.resources
